@@ -1,0 +1,4 @@
+A: ([a-z])(.*?$)
+A: \1\2 <EMBED SRC="file:///C:/Users/nian2/Downloads/SuperMemo17/speech/British/\1/\1\2.mp3" WIDTH=145 HEIGHT=20 AUTOSTART=True LOOP=False></EMBED>
+
+A: \1\2 <EMBED SRC="file:///C:/Users/nian2/Downloads/SuperMemo17/speech/British/\1/\1\2.mp3" WIDTH=145 HEIGHT=20 AUTOSTART=True LOOP=True></EMBED>
